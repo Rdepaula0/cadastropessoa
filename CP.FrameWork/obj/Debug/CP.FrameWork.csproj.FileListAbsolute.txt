@@ -1,0 +1,10 @@
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.FrameWork.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.FrameWork.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\obj\Debug\CP.FrameWork.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\obj\Debug\CP.FrameWork.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\obj\Debug\CP.FrameWork.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.FrameWork.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.FrameWork.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.pdb

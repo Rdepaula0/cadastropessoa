@@ -1,0 +1,13 @@
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\bin\Release\CP.DTO.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\bin\Release\CP.DTO.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\bin\Release\CP.Domain.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\bin\Release\Castle.ActiveRecord.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\bin\Release\Castle.Components.Validator.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\bin\Release\Castle.Core.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\bin\Release\CP.Domain.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\bin\Release\Castle.ActiveRecord.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\bin\Release\Castle.Components.Validator.xml
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\bin\Release\Castle.Core.xml
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\obj\Release\CP.DTO.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\obj\Release\CP.DTO.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\obj\Release\CP.DTO.pdb

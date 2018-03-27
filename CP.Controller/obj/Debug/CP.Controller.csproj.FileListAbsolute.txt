@@ -1,0 +1,10 @@
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Controller\obj\Debug\CP.Controller.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.Controller.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.Controller.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Controller\obj\Debug\CP.Controller.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Controller\obj\Debug\CP.Controller.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Controller.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Controller.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.pdb

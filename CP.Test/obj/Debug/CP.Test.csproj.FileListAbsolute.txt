@@ -1,0 +1,12 @@
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Test\obj\Debug\CP.Test.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.Test.dll.config
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.Test.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.Test.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Test\obj\Debug\CP.Test.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Test\obj\Debug\CP.Test.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Test.dll.config
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Test.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Test.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Test\obj\Debug\CP.Test.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Test\obj\Debug\CP.Test.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Test\obj\Debug\CP.Test.pdb

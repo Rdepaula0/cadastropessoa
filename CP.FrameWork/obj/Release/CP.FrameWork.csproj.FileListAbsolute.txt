@@ -1,0 +1,10 @@
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\bin\Release\CP.FrameWork.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\bin\Release\CP.FrameWork.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\bin\Release\FluentNHibernate.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\bin\Release\NHibernate.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\bin\Release\FluentNHibernate.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\bin\Release\FluentNHibernate.xml
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\bin\Release\NHibernate.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\bin\Release\NHibernate.xml
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\obj\Release\CP.FrameWork.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.FrameWork\obj\Release\CP.FrameWork.pdb

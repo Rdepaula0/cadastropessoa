@@ -1,0 +1,12 @@
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.WCF_\obj\Debug\CP.WCF.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.WCF.dll.config
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.WCF.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.WCF.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.WCF_\obj\Debug\CP.WCF.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.WCF_\obj\Debug\CP.WCF.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.WCF.dll.config
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.WCF.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.WCF.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.WCF_\obj\Debug\CP.WCF.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.WCF_\obj\Debug\CP.WCF.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.WCF_\obj\Debug\CP.WCF.pdb

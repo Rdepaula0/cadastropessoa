@@ -1,0 +1,10 @@
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\obj\Debug\CP.DTO.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.DTO.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.DTO.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\obj\Debug\CP.DTO.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.DTO\obj\Debug\CP.DTO.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.DTO.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.DTO.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.DTO\obj\Debug\CP.DTO.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.DTO\obj\Debug\CP.DTO.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.DTO\obj\Debug\CP.DTO.pdb

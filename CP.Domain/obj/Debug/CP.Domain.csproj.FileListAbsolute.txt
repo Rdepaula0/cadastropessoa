@@ -1,0 +1,10 @@
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.Domain.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.Domain.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Domain\obj\Debug\CP.Domain.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Domain\obj\Debug\CP.Domain.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Domain\obj\Debug\CP.Domain.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Domain.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Domain.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.pdb

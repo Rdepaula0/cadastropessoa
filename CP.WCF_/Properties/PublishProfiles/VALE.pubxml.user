@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>G:\Rodrigo_\vale\project</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddressService.svc">
+      <publishTime>03/27/2018 06:47:32</publishTime>
+    </File>
+    <File Include="bin/Castle.ActiveRecord.dll">
+      <publishTime>10/15/2014 10:32:54</publishTime>
+    </File>
+    <File Include="bin/Castle.Components.Validator.dll">
+      <publishTime>10/15/2014 10:32:54</publishTime>
+    </File>
+    <File Include="bin/Castle.Core.dll">
+      <publishTime>10/15/2014 10:32:34</publishTime>
+    </File>
+    <File Include="bin/CP.Controller.dll">
+      <publishTime>03/27/2018 08:03:32</publishTime>
+    </File>
+    <File Include="bin/CP.Domain.dll">
+      <publishTime>03/27/2018 08:03:01</publishTime>
+    </File>
+    <File Include="bin/CP.DTO.dll">
+      <publishTime>03/27/2018 08:03:32</publishTime>
+    </File>
+    <File Include="bin/CP.FrameWork.dll">
+      <publishTime>03/27/2018 07:13:28</publishTime>
+    </File>
+    <File Include="bin/CP.Infrastructure.dll">
+      <publishTime>03/27/2018 08:03:15</publishTime>
+    </File>
+    <File Include="bin/CP.Repository.dll">
+      <publishTime>03/27/2018 08:03:01</publishTime>
+    </File>
+    <File Include="bin/CP.WCF.dll">
+      <publishTime>03/27/2018 08:03:32</publishTime>
+    </File>
+    <File Include="bin/FluentNHibernate.dll">
+      <publishTime>05/20/2015 11:05:03</publishTime>
+    </File>
+    <File Include="bin/NHibernate.dll">
+      <publishTime>06/17/2015 13:21:54</publishTime>
+    </File>
+    <File Include="LegalPersonService.svc">
+      <publishTime>03/27/2018 06:49:33</publishTime>
+    </File>
+    <File Include="PhoneService.svc">
+      <publishTime>03/27/2018 06:48:24</publishTime>
+    </File>
+    <File Include="PhysicalPersonService.svc">
+      <publishTime>03/27/2018 06:49:11</publishTime>
+    </File>
+    <File Include="UserService.svc">
+      <publishTime>03/27/2018 07:49:26</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/27/2018 08:03:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

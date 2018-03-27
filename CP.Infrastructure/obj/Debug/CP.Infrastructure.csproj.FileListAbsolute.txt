@@ -1,0 +1,10 @@
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.Infrastructure.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Library\CP.Infrastructure.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Infrastructure\obj\Debug\CP.Infrastructure.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Infrastructure\obj\Debug\CP.Infrastructure.dll
+G:\Rodrigo_\vale\cadastro_pessoas\cadastro_pessoas\CP.Infrastructure\obj\Debug\CP.Infrastructure.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Infrastructure.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Infrastructure.pdb
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.csprojResolveAssemblyReference.cache
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.dll
+G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.pdb
