@@ -8,3 +8,17 @@ G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Controller.pdb
 G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.csprojResolveAssemblyReference.cache
 G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.dll
 G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.pdb
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.csprojResolveAssemblyReference.cache
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.dll
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.pdb
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Controller.dll
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Controller.pdb
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.csproj.CoreCompileInputs.cache
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.csproj.CopyComplete
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Library\CP.Controller.dll
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Library\CP.Controller.pdb
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.csprojResolveAssemblyReference.cache
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.csproj.CoreCompileInputs.cache
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.csproj.CopyComplete
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.dll
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Controller\obj\Debug\CP.Controller.pdb

@@ -8,3 +8,14 @@ G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.FrameWork.pdb
 G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.csprojResolveAssemblyReference.cache
 G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.dll
 G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.pdb
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.FrameWork.dll
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.FrameWork.pdb
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.csprojResolveAssemblyReference.cache
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.dll
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.pdb
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Library\CP.FrameWork.dll
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Library\CP.FrameWork.pdb
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.csproj.CoreCompileInputs.cache
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.csproj.CopyComplete
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.dll
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.FrameWork\obj\Debug\CP.FrameWork.pdb

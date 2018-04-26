@@ -26,8 +26,8 @@ namespace CP.Controller
                 Name = person.Name,
                 DateofBirth = person.DateofBirth,
                 Occupation = person.Occupation,
-                PhoneList = ConvertPhoneListTo(person.PhoneList),
-                AddressList = ConvertAddressListTo(person.AddressList)
+                //PhoneList = ConvertPhoneListTo(person.PhoneList),
+                //AddressList = ConvertAddressListTo(person.AddressList)
             };
 
             var data = PhysicalPersonRepository.Add(newperson);

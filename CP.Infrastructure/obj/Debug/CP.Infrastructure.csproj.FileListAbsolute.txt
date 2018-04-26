@@ -8,3 +8,17 @@ G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Infrastructure.pdb
 G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.csprojResolveAssemblyReference.cache
 G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.dll
 G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.pdb
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Infrastructure.dll
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Infrastructure.pdb
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.csprojResolveAssemblyReference.cache
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.csproj.CopyComplete
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.dll
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.pdb
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Library\CP.Infrastructure.dll
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Library\CP.Infrastructure.pdb
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.csproj.CopyComplete
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.dll
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Infrastructure\obj\Debug\CP.Infrastructure.pdb

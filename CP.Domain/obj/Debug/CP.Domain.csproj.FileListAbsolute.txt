@@ -8,3 +8,17 @@ G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Domain.pdb
 G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.csprojResolveAssemblyReference.cache
 G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.dll
 G:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.pdb
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Domain.dll
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Library\CP.Domain.pdb
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.csprojResolveAssemblyReference.cache
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.csproj.CoreCompileInputs.cache
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.csproj.CopyComplete
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.dll
+E:\Rodrigo_\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.pdb
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Library\CP.Domain.dll
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Library\CP.Domain.pdb
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.csproj.CoreCompileInputs.cache
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.csproj.CopyComplete
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.dll
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.pdb
+C:\Rodrigo\vale\cadastro_pessoas\CP\CP.Domain\obj\Debug\CP.Domain.csprojResolveAssemblyReference.cache

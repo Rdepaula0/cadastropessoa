@@ -6,13 +6,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>G:\Rodrigo_\vale\project</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Rodrigo\vale\project</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="AddressService.svc">
       <publishTime>03/27/2018 06:47:32</publishTime>
     </File>
     <File Include="bin/Castle.ActiveRecord.dll">
+      <publishTime>10/15/2014 10:32:54</publishTime>
+    </File>
+    <File Include="bin/Castle.ActiveRecord.pdb">
       <publishTime>10/15/2014 10:32:54</publishTime>
     </File>
     <File Include="bin/Castle.Components.Validator.dll">
@@ -22,31 +25,67 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2014 10:32:34</publishTime>
     </File>
     <File Include="bin/CP.Controller.dll">
-      <publishTime>03/27/2018 08:03:32</publishTime>
+      <publishTime>04/26/2018 00:19:24</publishTime>
+    </File>
+    <File Include="bin/CP.Controller.pdb">
+      <publishTime>04/26/2018 00:19:24</publishTime>
     </File>
     <File Include="bin/CP.Domain.dll">
-      <publishTime>03/27/2018 08:03:01</publishTime>
+      <publishTime>04/26/2018 00:16:55</publishTime>
+    </File>
+    <File Include="bin/CP.Domain.pdb">
+      <publishTime>04/26/2018 00:16:55</publishTime>
     </File>
     <File Include="bin/CP.DTO.dll">
-      <publishTime>03/27/2018 08:03:32</publishTime>
+      <publishTime>04/26/2018 00:19:23</publishTime>
+    </File>
+    <File Include="bin/CP.DTO.pdb">
+      <publishTime>04/26/2018 00:19:23</publishTime>
     </File>
     <File Include="bin/CP.FrameWork.dll">
-      <publishTime>03/27/2018 07:13:28</publishTime>
+      <publishTime>04/25/2018 16:59:24</publishTime>
+    </File>
+    <File Include="bin/CP.FrameWork.pdb">
+      <publishTime>04/25/2018 16:59:24</publishTime>
     </File>
     <File Include="bin/CP.Infrastructure.dll">
-      <publishTime>03/27/2018 08:03:15</publishTime>
+      <publishTime>04/26/2018 00:16:57</publishTime>
+    </File>
+    <File Include="bin/CP.Infrastructure.pdb">
+      <publishTime>04/26/2018 00:16:57</publishTime>
     </File>
     <File Include="bin/CP.Repository.dll">
-      <publishTime>03/27/2018 08:03:01</publishTime>
+      <publishTime>04/26/2018 00:16:58</publishTime>
+    </File>
+    <File Include="bin/CP.Repository.pdb">
+      <publishTime>04/26/2018 00:16:58</publishTime>
     </File>
     <File Include="bin/CP.WCF.dll">
-      <publishTime>03/27/2018 08:03:32</publishTime>
+      <publishTime>04/26/2018 00:19:26</publishTime>
+    </File>
+    <File Include="bin/CP.WCF.pdb">
+      <publishTime>04/26/2018 00:19:26</publishTime>
     </File>
     <File Include="bin/FluentNHibernate.dll">
       <publishTime>05/20/2015 11:05:03</publishTime>
     </File>
+    <File Include="bin/FluentNHibernate.pdb">
+      <publishTime>05/20/2015 11:05:03</publishTime>
+    </File>
+    <File Include="bin/NHibernate.ByteCode.Castle.dll">
+      <publishTime>10/15/2014 10:33:00</publishTime>
+    </File>
+    <File Include="bin/NHibernate.ByteCode.Castle.pdb">
+      <publishTime>10/15/2014 10:33:00</publishTime>
+    </File>
     <File Include="bin/NHibernate.dll">
       <publishTime>06/17/2015 13:21:54</publishTime>
+    </File>
+    <File Include="bin/NHibernate.pdb">
+      <publishTime>04/03/2011 05:46:50</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/25/2018 23:01:06</publishTime>
     </File>
     <File Include="LegalPersonService.svc">
       <publishTime>03/27/2018 06:49:33</publishTime>
@@ -61,7 +100,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/27/2018 07:49:26</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/27/2018 08:03:33</publishTime>
+      <publishTime>04/25/2018 23:04:17</publishTime>
     </File>
   </ItemGroup>
 </Project>
